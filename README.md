@@ -1,1 +1,2 @@
-# little_challenges
+# Little challenges
+1. Palindrome
